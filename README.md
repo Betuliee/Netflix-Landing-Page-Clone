@@ -1,4 +1,4 @@
-<h1>  Netflix Landing Page Clone</h1>
+<h1>  Netflix Landing Page Clone </h1>
 
 <h1> Used Languages </h1>
 
